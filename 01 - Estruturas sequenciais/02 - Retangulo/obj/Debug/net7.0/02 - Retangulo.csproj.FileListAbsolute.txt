@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\bin\Debug\net7.0\02 - Retangulo.exe
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\bin\Debug\net7.0\02 - Retangulo.deps.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\bin\Debug\net7.0\02 - Retangulo.runtimeconfig.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\bin\Debug\net7.0\02 - Retangulo.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\bin\Debug\net7.0\02 - Retangulo.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\refint\02 - Retangulo.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\02 - Retangulo.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\02 - Retangulo\obj\Debug\net7.0\ref\02 - Retangulo.dll
