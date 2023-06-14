@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\bin\Debug\net7.0\03 - Idades.exe
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\bin\Debug\net7.0\03 - Idades.deps.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\bin\Debug\net7.0\03 - Idades.runtimeconfig.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\bin\Debug\net7.0\03 - Idades.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\bin\Debug\net7.0\03 - Idades.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\refint\03 - Idades.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\03 - Idades.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\03 - Idades\obj\Debug\net7.0\ref\03 - Idades.dll
