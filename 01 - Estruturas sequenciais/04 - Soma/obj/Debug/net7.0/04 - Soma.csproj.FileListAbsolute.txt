@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\bin\Debug\net7.0\04 - Soma.exe
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\bin\Debug\net7.0\04 - Soma.deps.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\bin\Debug\net7.0\04 - Soma.runtimeconfig.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\bin\Debug\net7.0\04 - Soma.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\bin\Debug\net7.0\04 - Soma.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\refint\04 - Soma.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\04 - Soma.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\04 - Soma\obj\Debug\net7.0\ref\04 - Soma.dll
