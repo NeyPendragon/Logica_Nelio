@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\bin\Debug\net7.0\05 - Troco.exe
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\bin\Debug\net7.0\05 - Troco.deps.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\bin\Debug\net7.0\05 - Troco.runtimeconfig.json
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\bin\Debug\net7.0\05 - Troco.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\bin\Debug\net7.0\05 - Troco.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\refint\05 - Troco.dll
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.pdb
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\05 - Troco.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\Estrutura Sequencial\05 - Troco\obj\Debug\net7.0\ref\05 - Troco.dll
