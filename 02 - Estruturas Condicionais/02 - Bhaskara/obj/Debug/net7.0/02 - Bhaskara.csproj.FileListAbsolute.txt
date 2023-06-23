@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\bin\Debug\net7.0\02 - Bhaskara.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\bin\Debug\net7.0\02 - Bhaskara.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\bin\Debug\net7.0\02 - Bhaskara.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\bin\Debug\net7.0\02 - Bhaskara.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\bin\Debug\net7.0\02 - Bhaskara.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\refint\02 - Bhaskara.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\02 - Bhaskara.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\02 - Bhaskara\obj\Debug\net7.0\ref\02 - Bhaskara.dll
