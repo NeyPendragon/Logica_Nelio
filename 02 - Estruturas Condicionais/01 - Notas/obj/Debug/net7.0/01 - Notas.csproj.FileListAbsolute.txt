@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\bin\Debug\net7.0\01 - Notas.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\bin\Debug\net7.0\01 - Notas.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\bin\Debug\net7.0\01 - Notas.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\bin\Debug\net7.0\01 - Notas.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\bin\Debug\net7.0\01 - Notas.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\refint\01 - Notas.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\01 - Notas.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\01 - Notas\obj\Debug\net7.0\ref\01 - Notas.dll
