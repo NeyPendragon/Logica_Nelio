@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\bin\Debug\net7.0\05 - Troco verificado.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\bin\Debug\net7.0\05 - Troco verificado.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\bin\Debug\net7.0\05 - Troco verificado.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\bin\Debug\net7.0\05 - Troco verificado.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\bin\Debug\net7.0\05 - Troco verificado.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\refint\05 - Troco verificado.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\05 - Troco verificado.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\05 - Troco verificado\obj\Debug\net7.0\ref\05 - Troco verificado.dll
