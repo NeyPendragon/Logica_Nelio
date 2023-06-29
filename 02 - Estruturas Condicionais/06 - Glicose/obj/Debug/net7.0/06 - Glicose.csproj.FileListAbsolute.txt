@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\bin\Debug\net7.0\06 - Glicose.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\bin\Debug\net7.0\06 - Glicose.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\bin\Debug\net7.0\06 - Glicose.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\bin\Debug\net7.0\06 - Glicose.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\bin\Debug\net7.0\06 - Glicose.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\refint\06 - Glicose.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\06 - Glicose.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\06 - Glicose\obj\Debug\net7.0\ref\06 - Glicose.dll

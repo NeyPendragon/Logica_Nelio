@@ -1,0 +1,22 @@
+Problema "glicose"
+Fazer um programa para ler a quantidade de glicose
+no sangue de uma pessoa e depois mostrar na tela a
+classificação desta glicose de acordo com a tabela de
+referência abaixo.
+
+Classificação | Glicose
+Normal	      | Até 100mg/dl
+Elevado	      | > 100mg/dl até 140mg/dl
+Diabetes      | > 140mg/dl
+
+Exemplo 1:
+Digite a medida da glicose: 90.0
+Classificacao: normal
+
+Exemplo 2:
+Digite a medida da glicose: 140.0
+Classificacao: elevado
+
+Exemplo 3:
+Digite a medida da glicose: 143.2
+Classificacao: diabetes
