@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\bin\Debug\net7.0\08 - Temperatura.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\bin\Debug\net7.0\08 - Temperatura.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\bin\Debug\net7.0\08 - Temperatura.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\bin\Debug\net7.0\08 - Temperatura.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\bin\Debug\net7.0\08 - Temperatura.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\refint\08 - Temperatura.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\08 - Temperatura.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\08 - Temperatura\obj\Debug\net7.0\ref\08 - Temperatura.dll
