@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\bin\Debug\net7.0\09 - Lanchonete.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\bin\Debug\net7.0\09 - Lanchonete.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\bin\Debug\net7.0\09 - Lanchonete.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\bin\Debug\net7.0\09 - Lanchonete.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\bin\Debug\net7.0\09 - Lanchonete.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\refint\09 - Lanchonete.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\09 - Lanchonete.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\09 - Lanchonete\obj\Debug\net7.0\ref\09 - Lanchonete.dll
