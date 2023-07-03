@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\bin\Debug\net7.0\10 - Multiplos.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\bin\Debug\net7.0\10 - Multiplos.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\bin\Debug\net7.0\10 - Multiplos.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\bin\Debug\net7.0\10 - Multiplos.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\bin\Debug\net7.0\10 - Multiplos.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\refint\10 - Multiplos.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\10 - Multiplos.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\10 - Multiplos\obj\Debug\net7.0\ref\10 - Multiplos.dll
