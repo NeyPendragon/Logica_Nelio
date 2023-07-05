@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\bin\Debug\net7.0\11 - Aumento.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\bin\Debug\net7.0\11 - Aumento.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\bin\Debug\net7.0\11 - Aumento.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\bin\Debug\net7.0\11 - Aumento.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\bin\Debug\net7.0\11 - Aumento.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\refint\11 - Aumento.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\11 - Aumento.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\11 - Aumento\obj\Debug\net7.0\ref\11 - Aumento.dll
