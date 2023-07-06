@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\bin\Debug\net7.0\12 - Tempo de Jogo.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\bin\Debug\net7.0\12 - Tempo de Jogo.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\bin\Debug\net7.0\12 - Tempo de Jogo.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\bin\Debug\net7.0\12 - Tempo de Jogo.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\bin\Debug\net7.0\12 - Tempo de Jogo.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\refint\12 - Tempo de Jogo.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\12 - Tempo de Jogo.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\12 - Tempo de Jogo\obj\Debug\net7.0\ref\12 - Tempo de Jogo.dll
