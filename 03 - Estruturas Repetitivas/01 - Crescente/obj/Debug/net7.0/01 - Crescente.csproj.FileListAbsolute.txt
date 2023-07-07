@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\bin\Debug\net7.0\01 - Crescente.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\bin\Debug\net7.0\01 - Crescente.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\bin\Debug\net7.0\01 - Crescente.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\bin\Debug\net7.0\01 - Crescente.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\bin\Debug\net7.0\01 - Crescente.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\refint\01 - Crescente.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\01 - Crescente.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\01 - Crescente\obj\Debug\net7.0\ref\01 - Crescente.dll
