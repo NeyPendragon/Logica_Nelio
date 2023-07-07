@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\bin\Debug\net7.0\13 - Coordenadas.exe
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\bin\Debug\net7.0\13 - Coordenadas.deps.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\bin\Debug\net7.0\13 - Coordenadas.runtimeconfig.json
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\bin\Debug\net7.0\13 - Coordenadas.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\bin\Debug\net7.0\13 - Coordenadas.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\refint\13 - Coordenadas.dll
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.pdb
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\13 - Coordenadas.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\02 - Estruturas Condicionais\13 - Coordenadas\obj\Debug\net7.0\ref\13 - Coordenadas.dll
