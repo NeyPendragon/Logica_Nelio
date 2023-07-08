@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\bin\Debug\net7.0\02 - Media Idades.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\bin\Debug\net7.0\02 - Media Idades.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\bin\Debug\net7.0\02 - Media Idades.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\bin\Debug\net7.0\02 - Media Idades.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\bin\Debug\net7.0\02 - Media Idades.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\refint\02 - Media Idades.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\02 - Media Idades.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\02 - Media Idades\obj\Debug\net7.0\ref\02 - Media Idades.dll
