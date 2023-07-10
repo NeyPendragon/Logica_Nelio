@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\bin\Debug\net7.0\03 - Senha fixa.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\bin\Debug\net7.0\03 - Senha fixa.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\bin\Debug\net7.0\03 - Senha fixa.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\bin\Debug\net7.0\03 - Senha fixa.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\bin\Debug\net7.0\03 - Senha fixa.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\refint\03 - Senha fixa.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\03 - Senha fixa.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\03 - Senha fixa\obj\Debug\net7.0\ref\03 - Senha fixa.dll
