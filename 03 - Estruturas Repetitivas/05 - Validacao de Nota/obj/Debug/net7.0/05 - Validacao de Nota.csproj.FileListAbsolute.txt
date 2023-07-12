@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\bin\Debug\net7.0\05 - Validacao de Nota.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\bin\Debug\net7.0\05 - Validacao de Nota.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\bin\Debug\net7.0\05 - Validacao de Nota.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\bin\Debug\net7.0\05 - Validacao de Nota.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\bin\Debug\net7.0\05 - Validacao de Nota.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\refint\05 - Validacao de Nota.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\05 - Validacao de Nota.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\05 - Validacao de Nota\obj\Debug\net7.0\ref\05 - Validacao de Nota.dll
