@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\bin\Debug\net7.0\04 - Quadrante.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\bin\Debug\net7.0\04 - Quadrante.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\bin\Debug\net7.0\04 - Quadrante.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\bin\Debug\net7.0\04 - Quadrante.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\bin\Debug\net7.0\04 - Quadrante.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\refint\04 - Quadrante.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\04 - Quadrante.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\04 - Quadrante\obj\Debug\net7.0\ref\04 - Quadrante.dll
