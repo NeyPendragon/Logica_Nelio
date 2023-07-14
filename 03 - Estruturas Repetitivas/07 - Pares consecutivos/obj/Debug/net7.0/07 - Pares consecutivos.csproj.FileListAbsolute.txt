@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\bin\Debug\net7.0\07 - Pares consecutivos.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\bin\Debug\net7.0\07 - Pares consecutivos.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\bin\Debug\net7.0\07 - Pares consecutivos.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\bin\Debug\net7.0\07 - Pares consecutivos.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\bin\Debug\net7.0\07 - Pares consecutivos.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\refint\07 - Pares consecutivos.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\07 - Pares consecutivos.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\07 - Pares consecutivos\obj\Debug\net7.0\ref\07 - Pares consecutivos.dll
