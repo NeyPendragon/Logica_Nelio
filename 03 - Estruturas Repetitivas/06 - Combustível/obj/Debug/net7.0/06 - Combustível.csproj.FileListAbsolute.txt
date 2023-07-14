@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\bin\Debug\net7.0\06 - Combustível.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\bin\Debug\net7.0\06 - Combustível.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\bin\Debug\net7.0\06 - Combustível.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\bin\Debug\net7.0\06 - Combustível.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\bin\Debug\net7.0\06 - Combustível.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\refint\06 - Combustível.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\06 - Combustível.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\06 - Combustível\obj\Debug\net7.0\ref\06 - Combustível.dll
