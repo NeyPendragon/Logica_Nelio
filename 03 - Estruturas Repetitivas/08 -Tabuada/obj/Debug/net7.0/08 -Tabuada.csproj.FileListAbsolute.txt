@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\bin\Debug\net7.0\08 -Tabuada.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\bin\Debug\net7.0\08 -Tabuada.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\bin\Debug\net7.0\08 -Tabuada.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\bin\Debug\net7.0\08 -Tabuada.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\bin\Debug\net7.0\08 -Tabuada.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\refint\08 -Tabuada.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\08 -Tabuada.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\08 -Tabuada\obj\Debug\net7.0\ref\08 -Tabuada.dll
