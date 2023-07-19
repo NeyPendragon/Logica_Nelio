@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\bin\Debug\net7.0\09 - Soma Impares.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\bin\Debug\net7.0\09 - Soma Impares.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\bin\Debug\net7.0\09 - Soma Impares.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\bin\Debug\net7.0\09 - Soma Impares.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\bin\Debug\net7.0\09 - Soma Impares.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\refint\09 - Soma Impares.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\09 - Soma Impares.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\09 - Soma Impares\obj\Debug\net7.0\ref\09 - Soma Impares.dll
