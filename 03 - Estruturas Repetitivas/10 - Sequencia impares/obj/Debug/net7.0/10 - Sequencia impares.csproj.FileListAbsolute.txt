@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\bin\Debug\net7.0\10 - Sequencia impares.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\bin\Debug\net7.0\10 - Sequencia impares.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\bin\Debug\net7.0\10 - Sequencia impares.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\bin\Debug\net7.0\10 - Sequencia impares.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\bin\Debug\net7.0\10 - Sequencia impares.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\refint\10 - Sequencia impares.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\10 - Sequencia impares.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\10 - Sequencia impares\obj\Debug\net7.0\ref\10 - Sequencia impares.dll
