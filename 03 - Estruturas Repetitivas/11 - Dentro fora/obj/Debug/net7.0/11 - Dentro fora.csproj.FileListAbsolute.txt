@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\bin\Debug\net7.0\11 - Dentro fora.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\bin\Debug\net7.0\11 - Dentro fora.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\bin\Debug\net7.0\11 - Dentro fora.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\bin\Debug\net7.0\11 - Dentro fora.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\bin\Debug\net7.0\11 - Dentro fora.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\refint\11 - Dentro fora.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\11 - Dentro fora.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\11 - Dentro fora\obj\Debug\net7.0\ref\11 - Dentro fora.dll
