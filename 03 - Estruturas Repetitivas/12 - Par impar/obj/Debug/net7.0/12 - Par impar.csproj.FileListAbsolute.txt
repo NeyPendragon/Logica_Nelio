@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\bin\Debug\net7.0\12 - Par impar.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\bin\Debug\net7.0\12 - Par impar.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\bin\Debug\net7.0\12 - Par impar.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\bin\Debug\net7.0\12 - Par impar.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\bin\Debug\net7.0\12 - Par impar.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\refint\12 - Par impar.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\12 - Par impar.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\12 - Par impar\obj\Debug\net7.0\ref\12 - Par impar.dll
