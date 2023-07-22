@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\bin\Debug\net7.0\13 - Media ponderada.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\bin\Debug\net7.0\13 - Media ponderada.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\bin\Debug\net7.0\13 - Media ponderada.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\bin\Debug\net7.0\13 - Media ponderada.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\bin\Debug\net7.0\13 - Media ponderada.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\refint\13 - Media ponderada.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\13 - Media ponderada.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\13 - Media ponderada\obj\Debug\net7.0\ref\13 - Media ponderada.dll
