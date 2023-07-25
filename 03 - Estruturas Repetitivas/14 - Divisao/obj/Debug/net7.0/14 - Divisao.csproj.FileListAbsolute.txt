@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\bin\Debug\net7.0\14 - Divisao.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\bin\Debug\net7.0\14 - Divisao.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\bin\Debug\net7.0\14 - Divisao.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\bin\Debug\net7.0\14 - Divisao.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\bin\Debug\net7.0\14 - Divisao.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\refint\14 - Divisao.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\14 - Divisao.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\14 - Divisao\obj\Debug\net7.0\ref\14 - Divisao.dll
