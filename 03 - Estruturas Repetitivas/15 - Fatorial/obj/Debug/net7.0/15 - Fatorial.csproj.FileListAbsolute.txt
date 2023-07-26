@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\bin\Debug\net7.0\15 - Fatorial.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\bin\Debug\net7.0\15 - Fatorial.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\bin\Debug\net7.0\15 - Fatorial.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\bin\Debug\net7.0\15 - Fatorial.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\bin\Debug\net7.0\15 - Fatorial.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\refint\15 - Fatorial.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\15 - Fatorial.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\15 - Fatorial\obj\Debug\net7.0\ref\15 - Fatorial.dll
