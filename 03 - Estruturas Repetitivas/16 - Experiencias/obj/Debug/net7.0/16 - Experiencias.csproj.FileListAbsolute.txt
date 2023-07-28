@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\bin\Debug\net7.0\16 - Experiencias.exe
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\bin\Debug\net7.0\16 - Experiencias.deps.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\bin\Debug\net7.0\16 - Experiencias.runtimeconfig.json
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\bin\Debug\net7.0\16 - Experiencias.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\bin\Debug\net7.0\16 - Experiencias.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\refint\16 - Experiencias.dll
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.pdb
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\16 - Experiencias.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\03 - Estruturas Repetitivas\16 - Experiencias\obj\Debug\net7.0\ref\16 - Experiencias.dll
