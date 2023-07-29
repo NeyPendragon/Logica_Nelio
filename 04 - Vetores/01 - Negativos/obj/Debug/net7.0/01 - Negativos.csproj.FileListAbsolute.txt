@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\bin\Debug\net7.0\01 - Negativos.exe
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\bin\Debug\net7.0\01 - Negativos.deps.json
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\bin\Debug\net7.0\01 - Negativos.runtimeconfig.json
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\bin\Debug\net7.0\01 - Negativos.dll
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\bin\Debug\net7.0\01 - Negativos.pdb
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.dll
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\refint\01 - Negativos.dll
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.pdb
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\01 - Negativos.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\04 - Vetores\01 - Negativos\obj\Debug\net7.0\ref\01 - Negativos.dll
