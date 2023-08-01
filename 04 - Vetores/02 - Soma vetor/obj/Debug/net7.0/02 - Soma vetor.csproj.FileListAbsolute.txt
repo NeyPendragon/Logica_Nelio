@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\bin\Debug\net7.0\02 - Soma vetor.exe
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\bin\Debug\net7.0\02 - Soma vetor.deps.json
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\bin\Debug\net7.0\02 - Soma vetor.runtimeconfig.json
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\bin\Debug\net7.0\02 - Soma vetor.dll
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\bin\Debug\net7.0\02 - Soma vetor.pdb
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.dll
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\refint\02 - Soma vetor.dll
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.pdb
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\02 - Soma vetor.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\04 - Vetores\02 - Soma vetor\obj\Debug\net7.0\ref\02 - Soma vetor.dll
