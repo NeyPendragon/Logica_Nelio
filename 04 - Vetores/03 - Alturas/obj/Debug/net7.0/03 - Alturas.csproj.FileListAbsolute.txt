@@ -1,0 +1,15 @@
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\bin\Debug\net7.0\03 - Alturas.exe
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\bin\Debug\net7.0\03 - Alturas.deps.json
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\bin\Debug\net7.0\03 - Alturas.runtimeconfig.json
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\bin\Debug\net7.0\03 - Alturas.dll
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\bin\Debug\net7.0\03 - Alturas.pdb
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.csproj.AssemblyReference.cache
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.AssemblyInfoInputs.cache
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.AssemblyInfo.cs
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.csproj.CoreCompileInputs.cache
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.dll
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\refint\03 - Alturas.dll
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.pdb
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\03 - Alturas.genruntimeconfig.cache
+F:\Ney\ADS\Udemy\04 - Vetores\03 - Alturas\obj\Debug\net7.0\ref\03 - Alturas.dll
